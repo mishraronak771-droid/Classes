@@ -1,0 +1,23 @@
+#include <stdio.h>
+int main (void)
+{
+       
+       
+       int age = 16;
+       int player_score = 87;
+       int book = 250;
+       int balance = 5000;
+       int steps = 6500;
+       int my_age = 16;
+       int number = 9856578430;
+       int year = 2026;
+  
+  printf("student age :%d\n", age);
+  printf("player score :%d\n", player_score);
+  printf("total books :%d\n", book);
+  printf("account balance :%d\n", balance);
+  printf("today's step :%d\n", steps);
+  printf("my age is :%d\n", my_age);
+  printf("my number is :%d\n", number);
+  printf("current year :%d\n", year);
+ }
